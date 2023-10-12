@@ -1,0 +1,7 @@
+telegram:
+  - id: "BughunterDrx"
+    telegram_api_key: "6611717909:AAEzW5rD3lCob8PrImnCfXrrD4OS-jaUGMM"
+    telegram_chat_id: "5040999628"
+    telegram_format: "{{data}}"
+    telegram_parsemode: "Markdown"
+    
